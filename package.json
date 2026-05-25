@@ -4,8 +4,8 @@
   "sideEffects": false,
   "type": "module",
   "scripts": {
-    "build": "vinxi build",
-    "dev": "vinxi dev",
+    "build": "vite build",
+    "dev": "vite dev",
     "build:dev": "vite build --mode development",
     "preview": "vite preview",
     "lint": "eslint .",
